@@ -163,11 +163,4 @@ def isolate_host(host_ip):
 ✅ **Splunk Dashboard for monitoring attacks & responses**  
 ✅ **Incident Report** with attack logs & automated response actions  
 
----
 
-## **🚀 Next Steps & Enhancements**
-- Expand attack simulation with **ransomware, lateral movement, or phishing**  
-- Integrate **Slack or Email alerts** for real-time notifications  
-- Add **Machine Learning in Splunk** for anomaly detection  
-
-Would you like a **customized report template** for documenting your findings? 🚀
